@@ -2,7 +2,7 @@
 
 This demonstration vault was created from [`integrimark-vault-template`](https://github.com/integrimark/integrimark-vault-template), and a single PDF file was uploaded.
 
-The vault is hosted at: https://integrimark.github.io/integrimark-demo-vault/
+The vault is hosted at: [`https://integrimark.github.io/integrimark-demo-vault/`](https://integrimark.github.io/integrimark-demo-vault/)
 
 Here is a [sample watermarked URL with `lumbroso@seas.upenn.edu`](https://integrimark.github.io/integrimark-demo-vault/kelley_1988.pdf?email=lumbroso%40seas.upenn.edu&key=U2FsdGVkX19%2BGx52d61mhqRDsGxYjCb3gSjPLfDD2qEdBh/4AgpsR9MKxlo3gCVJ). You can see that this is a watermarked version of [the PDF `kelley_1988.pdf` available in this repository](https://github.com/integrimark/integrimark-demo-vault/raw/main/kelley_1988.pdf).
 
